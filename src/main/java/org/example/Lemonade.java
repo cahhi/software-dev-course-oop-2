@@ -59,9 +59,5 @@ public class Lemonade {
         Lemonade lemonade3 = new Lemonade(newLemonadeLemons, newLemonadeSugar, newLemonadeIce);
 
         return lemonade3;
-
-
-
-
     }
 }
